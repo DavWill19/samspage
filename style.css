@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(rgb(118, 118, 231), cyan);
+}
+
+
+h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(216, 174, 34);
+    text-align: center;
+    text-shadow: 5px 2px 2px rgb(70, 55, 7);
+}
+
+.main {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    box-shadow: 10px 5px 5px rgb(66, 65, 65);
+
+
+}
+h2 {
+    font-family: 'Zen Dots';
+    color: rgb(19, 24, 90);
+    font-size: 20px;
+    margin-left: 50px;
+}
